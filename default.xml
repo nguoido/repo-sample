@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="ssh://git@github.com/" />
+  <default revision="master" remote="origin" />
+
+  <project path="tmux-sample"
+          name="tmux/tmux.git" remote="origin" />
+
+  <project path="oh-my-zsh-sample"
+          name="ohmyzsh/ohmyzsh.git" remote="origin" />
+
+</manifest>
